@@ -10,6 +10,8 @@ Speaker 1 plays one announcement (e.g., "JSS1 has Maths").
 Speaker 2 plays another announcement simultaneously (e.g., "SS3 has Chemistry").
 This system can be deployed in schools, universities, offices, and factories for smart attendance and automated announcements.
 
+Watch the demo video here : https://youtube.com/shorts/YFG0NjOF-mY?si=vTtnCTvz24UjYs0l
+
 2. System Components
 Hardware
 ESP32 Development Board – microcontroller for RFID and audio control.
